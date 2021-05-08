@@ -4,10 +4,10 @@ Facebook search on the specific  post through title in python script
 # Install different library in PC through terminal in OS Ubuntu,Mac, etc
 
 # Dataframe library 
-# pip install pandas
+ pip install pandas
 
 # Selenium library
-# pip install selenium
+ pip install selenium
 
 # Beautiful soap library
-# sudo apt-get install python3-bs4
+ sudo apt-get install python3-bs4
